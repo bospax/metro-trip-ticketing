@@ -1,0 +1,31 @@
+button#btn-add-trips {
+    margin-left: 5px;
+}
+
+input#datepicker_ptrips:-moz-read-only { /* For Firefox */
+    background-color: #ffffff;
+}
+  
+input#datepicker_ptrips:read-only {
+    background-color: #ffffff;
+}
+
+input#timepicker_trips:-moz-read-only { /* For Firefox */
+    background-color: #ffffff;
+}
+  
+input#timepicker_trips:read-only {
+    background-color: #ffffff;
+}
+
+input#input-ptrips-dname:-moz-read-only { /* For Firefox */
+    background-color: #ffffff;
+}
+  
+input#input-ptrips-dname:read-only {
+    background-color: #ffffff;
+}
+
+.ptrip-hidden {
+    display: none;
+}

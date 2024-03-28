@@ -1,0 +1,16 @@
+[06-Oct-2023 05:03:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Vehicle' not found in /home/webdomainadmin/public_html/metro/web/consump/consump.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/webdomainadmin/public_html/metro/web/consump/consump.php on line 64
+[06-Oct-2023 05:04:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Vehicle' not found in /home/webdomainadmin/public_html/metro/web/consump/consump.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/webdomainadmin/public_html/metro/web/consump/consump.php on line 64
+[07-Oct-2023 12:57:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Vehicle' not found in /home/webdomainadmin/public_html/metro/web/consump/consump.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/webdomainadmin/public_html/metro/web/consump/consump.php on line 64
+[10-Oct-2023 11:47:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Vehicle' not found in /home/webdomainadmin/public_html/metro/web/consump/consump.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/webdomainadmin/public_html/metro/web/consump/consump.php on line 64

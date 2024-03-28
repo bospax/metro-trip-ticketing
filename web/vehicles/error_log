@@ -1,0 +1,12 @@
+[06-Oct-2023 05:07:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Location' not found in /home/webdomainadmin/public_html/metro/web/vehicles/vehicles.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/webdomainadmin/public_html/metro/web/vehicles/vehicles.php on line 119
+[07-Oct-2023 18:33:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Location' not found in /home/webdomainadmin/public_html/metro/web/vehicles/vehicles.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/webdomainadmin/public_html/metro/web/vehicles/vehicles.php on line 119
+[10-Oct-2023 11:46:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Location' not found in /home/webdomainadmin/public_html/metro/web/vehicles/vehicles.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/webdomainadmin/public_html/metro/web/vehicles/vehicles.php on line 119

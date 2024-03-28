@@ -1,0 +1,208 @@
+[26-Jul-2022 01:03:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:03:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:03:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:04:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:04:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:04:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:04:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:04:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:06:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:06:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:06:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:08:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:08:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:08:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:09:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:16:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:16:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:16:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:16:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:16:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:38:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:38:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:38:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:38:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 01:38:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18
+[26-Jul-2022 02:15:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'webdomai_pax'@'148.72.214.239' to database 'webdomai_metro' in /home/webdomainadmin/public_html/metro/database/db.php:18
+Stack trace:
+#0 /home/webdomainadmin/public_html/metro/database/db.php(18): PDO->__construct('mysql:host=148....', 'webdomai_pax', 'ZlAz$)NALKsd')
+#1 /home/webdomainadmin/public_html/metro/database/db.php(13): DBController->connectDB()
+#2 /home/webdomainadmin/public_html/metro/class/User.php(6): DBController->__construct()
+#3 /home/webdomainadmin/public_html/metro/web/authenticate/ajax/router.php(89): User->__construct()
+#4 {main}
+  thrown in /home/webdomainadmin/public_html/metro/database/db.php on line 18

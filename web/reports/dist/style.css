@@ -1,0 +1,119 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+table.blueTable {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+  }
+  table.blueTable td, table.blueTable th {
+    padding: 3px 2px;
+  }
+  table.blueTable tbody td {
+    font-size: 13px;
+  }
+  table.blueTable thead {
+    background: #1C6EA4;
+  }
+  table.blueTable thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-left: 2px solid #D0E4F5;
+  }
+  table.blueTable thead th:first-child {
+    border-left: none;
+  }
+  
+  table.blueTable tfoot {
+    font-weight: bold;
+  }
+  table.blueTable tfoot .links {
+    text-align: right;
+  }
+  table.blueTable tfoot .links a{
+    display: inline-block;
+    background: #1C6EA4;
+    color: #FFFFFF;
+    padding: 2px 8px;
+    border-radius: 5px;
+  }
+
+  
+  table.blueTable td {
+  background: #FFF;
+border-bottom: 1px solid #dddddd;
+padding: 8px;
+text-align: left;
+}
+
+.header-space {
+    height: 300px;
+}
+
+p.footer-text {
+  font-size: 12px;
+  margin: 10px;
+}
+
+.page-header .logo {
+    width: 20%;
+    height: auto;
+}
+
+.page-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid black; /* for demo */
+    background: #fff; /* for demo */
+}
+
+.page-header {
+    position: fixed;
+    width: 100%;
+    border-bottom: 1px solid black; /* for demo */
+    background: #fff; /* for demo */
+}
+
+.page {
+    page-break-after: always;
+}
+
+@page {
+    margin: 20mm
+}
+
+@media print {
+    thead {display: table-header-group;} 
+    tfoot {display: table-footer-group;}
+    
+    button {display: none;}
+    
+    body {margin: 0;}
+}
+
+/* table.mytabledriver td {
+  padding-right: 20px;
+  font-size: 12px;
+}
+
+table.mytabledriver .emphasize {
+  font-weight: bold;
+} */
+
+@media print  
+{
+    div.manhour {
+        page-break-inside: avoid;
+    }
+
+    div.pagebreak-idle {
+      page-break-inside: avoid;
+    }
+}
+
+.btn-hidden {
+  display: none !important;
+}

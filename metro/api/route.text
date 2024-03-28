@@ -1,0 +1,8 @@
+//GET LOCATIONS
+[directory]/api/location.php
+
+//GET VEHICLES
+[directory]/api/vehicle.php
+
+//GET TERMINALS
+[directory]/api/terminal.php
